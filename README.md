@@ -1,16 +1,5 @@
-# todo_list_bloc
+Flutter App
 
-A new Flutter project.
+- Todo List Bloc 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="832" alt="todolist" src="https://user-images.githubusercontent.com/106439294/189997744-c5df47e9-1348-4784-8c39-dbb04f5eea3d.png">
